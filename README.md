@@ -1,13 +1,26 @@
-# [Best Slack Bots to Enhance Your Workspace](#best-slack-bots-to-enhance-your-workspace)
+# Best Slack Bots to Enhance Your Workspace
 Slack is a powerful collaboration tool, and with the right bots, you can supercharge your team's productivity, streamline HR processes, and foster engagement. Here’s a curated list of the top Slack bots across essential categories.
 
 ## Table of Contents
 
-- [Best Slack Bots for Productivity](#best-slack-bots-for-productivity)
 - [Best Slack Bots for HR & Team Culture](#best-slack-bots-for-hr-team-culture)
+- [Best Slack Bots for Productivity](#best-slack-bots-for-productivity)
 - [Best Slack Bots for HR Management](#best-slack-bots-for-hr-management)
 - [Best Slack Bots for Team Engagement](#best-slack-bots-for-team-engagement)
 - [Best Slack Bots for Design Collaboration](#best-slack-bots-for-design-collaboration)
+
+
+## [Best Slack Bots for HR & Team Culture](#best-slack-bots-for-hr-team-culture)
+
+| Bot Name        | Function                                         | Cost                          | URL                                |
+|------------------|--------------------------------------------------|-------------------------------|------------------------------------|
+| **Sweet Kudos**      | Employee recognition, rewards, and celebrations to Slack.                    | Free up to 10 active users then $2.49                          | [Install Sweet Kudos](https://slack.com/marketplace/A02QRERAX25-sweet-kudos-recognition-rewards)       |
+| Polly          | Get feedback instantly.    | $3 per user/month             | [Polly](https://www.polly.ai/)  |
+| Standup.ly    | Automates HR processes like onboarding, feedback surveys, and team mood check-ins. | Free with premium options     | [Standup.ly](https://standuply.com)         |
+| Geekbot       | Automates standup meetings, retrospectives, and surveys to enhance productivity. | Starts at $3/month           | [Geekbot](https://geekbot.com)              |
+| Donut         | Facilitates virtual coffee meetings to promote team bonding and engagement. | Free with premium options     | [Donut](https://donut.com)                   |
+| DailyBot      | AI-powered assistant for stand-up meetings, surveys, and team check-ins.  | Free with premium options     | [DailyBot](https://dailybot.com)             |
+| Mebebot       | Provides instant answers to HR queries, enhancing employee experience.   | Free with premium options     | [Mebebot](https://www.proprofschat.com/blog/best-hr-chatbots/) |
 
 ## [Best Slack Bots for Productivity](#best-slack-bots-for-productivity)
 
@@ -22,17 +35,6 @@ Slack is a powerful collaboration tool, and with the right bots, you can superch
 | Task Reminder      | Sets reminders for tasks within Slack.           | Free                          | [Task Reminder](https://slack.com/apps/A0F81R2E5-task-reminder) |
 | Flow              | Assigns tasks and manages projects.               | Starts at $4.79/user/month   | [Flow](https://www.flowapp.com)  |
 
-## [Best Slack Bots for HR & Team Culture](#best-slack-bots-for-hr-team-culture)
-
-| Bot Name        | Function                                         | Cost                          | URL                                |
-|------------------|--------------------------------------------------|-------------------------------|------------------------------------|
-| **Sweet Kudos**      | Employee recognition, rewards, and celebrations to Slack.                    | Free up to 10 active users then $2.49                          | [Install Sweet Kudos](https://slack.com/marketplace/A02QRERAX25-sweet-kudos-recognition-rewards)       |
-| Polly          | Get feedback instantly.    | $3 per user/month             | [Polly](https://www.polly.ai/)  |
-| Standup.ly    | Automates HR processes like onboarding, feedback surveys, and team mood check-ins. | Free with premium options     | [Standup.ly](https://standuply.com)         |
-| Geekbot       | Automates standup meetings, retrospectives, and surveys to enhance productivity. | Starts at $3/month           | [Geekbot](https://geekbot.com)              |
-| Donut         | Facilitates virtual coffee meetings to promote team bonding and engagement. | Free with premium options     | [Donut](https://donut.com)                   |
-| DailyBot      | AI-powered assistant for stand-up meetings, surveys, and team check-ins.  | Free with premium options     | [DailyBot](https://dailybot.com)             |
-| Mebebot       | Provides instant answers to HR queries, enhancing employee experience.   | Free with premium options     | [Mebebot](https://www.proprofschat.com/blog/best-hr-chatbots/) |
 
 ## [Best Slack Bots for HR Management](#best-slack-bots-for-hr-management)
 
