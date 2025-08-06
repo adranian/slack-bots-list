@@ -14,7 +14,7 @@ Slack is a powerful collaboration tool, and with the right bots, you can superch
 
 | Bot Name        | Function                                         | Cost                          | URL                                |
 |------------------|--------------------------------------------------|-------------------------------|------------------------------------|
-| **Sweet Kudos**      | Employee recognition, rewards, and celebrations to Slack.                    | Free up to 10 active users then $2.49                          | [Install Sweet Kudos](https://slack.com/marketplace/A02QRERAX25-sweet-kudos-recognition-rewards)       |
+| **Asante Bot**      | Employee recognition, rewards, and celebrations to Slack.                    | Free up to 10 active users then $2.49                          | [Install Asante Bot](https://slack.com/marketplace/A02QRERAX25)       |
 | Polly          | Get feedback instantly.    | $3 per user/month             | [Polly](https://www.polly.ai/)  |
 | Standup.ly    | Automates HR processes like onboarding, feedback surveys, and team mood check-ins. | Free with premium options     | [Standup.ly](https://standuply.com)         |
 | Geekbot       | Automates standup meetings, retrospectives, and surveys to enhance productivity. | Starts at $3/month           | [Geekbot](https://geekbot.com)              |
@@ -75,3 +75,4 @@ Slack is a powerful collaboration tool, and with the right bots, you can superch
 | Loom          | Allows designers to create video walkthroughs of designs for better feedback. | Free with premium options     | [Loom](https://www.loom.com)                 |
 | Dribbble      | Get updates on new designs, follow designers, and share your work within Slack. | Free                          | [Dribbble](https://dribbble.com)             |
 | Canva         | Create and share designs quickly, with templates and collaborative features.  | Free with premium options     | [Canva](https://www.canva.com)               |
+
